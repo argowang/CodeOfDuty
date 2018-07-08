@@ -2,7 +2,7 @@
 A fierce, cruel battleground for noob coders.
 
 # Rule
-1. Create a new branch with format {Firstname-LastName} i.e. Argo-Wang
+1. Create a new branch with format {FirstnameLastName} i.e. ArgoWang
 2. Push to your own branch only
 3. Every day, you need to complete 5 easy || 2 medium || 1 hard problem(s) from leetcode. You can pick whatever problems you want. To check-in for each day, you need to commit the following things:
 * Updated README.md specifying the date and links to the problems finished within the day
