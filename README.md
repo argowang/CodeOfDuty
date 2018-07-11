@@ -11,3 +11,10 @@
 * [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
 * [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)
 * [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/)
+
+# 2018/07/11
+* [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)
+* [Move Zeros](https://leetcode.com/problems/move-zeroes/description/)
+* [Majority Element](https://leetcode.com/problems/majority-element/)
+* [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+* [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
