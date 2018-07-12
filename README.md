@@ -9,3 +9,7 @@ humiliate me
 * [Is power of two](https://leetcode.com/problems/power-of-two/description/)
 * [Is power of four](https://leetcode.com/problems/power-of-four/description/)
 * [Counting bits](https://leetcode.com/problems/counting-bits/description/)
+#### 20180712
+* [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
+* [ugly numbers](https://leetcode.com/problems/ugly-number/description/)
+* [Sum of two integers](https://leetcode.com/problems/sum-of-two-integers/description/)
