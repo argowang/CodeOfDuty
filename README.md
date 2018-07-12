@@ -9,3 +9,6 @@ A fierce, cruel battleground for noob coders.
 * A folder with date YYYY-MM-DD as name and answer to each question
 4. Participants should provide code reviews for other participants. Comment on others' commit if you find any smelling code and humiliate the author as you want.
 5. Participants who fail to upload before 11:59 p.m. local time will be publicly humiliated on the master branch.
+
+# July 10th Humiliation Board
+## Yinghai Xu
