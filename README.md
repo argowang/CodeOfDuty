@@ -18,3 +18,11 @@
 * [Majority Element](https://leetcode.com/problems/majority-element/)
 * [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 * [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
+# 2018/07/12
+* [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/)
+* [Image Smoother](https://leetcode.com/problems/image-smoother/description/)
+* [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/)
+* [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
+* [Missing Number](https://leetcode.com/problems/missing-number/description/)
+* [Two SumII](https://leetcode.com/problems/missing-number/description/)
