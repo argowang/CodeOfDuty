@@ -26,3 +26,12 @@
 * [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
 * [Missing Number](https://leetcode.com/problems/missing-number/description/)
 * [Two SumII](https://leetcode.com/problems/missing-number/description/)
+
+
+# 2018/07/13
+* [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)
+* [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)
+* [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+* [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
+* [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
+* [Remove Element](https://leetcode.com/problems/remove-element/description/)
