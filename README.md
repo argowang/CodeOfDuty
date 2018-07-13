@@ -21,3 +21,7 @@
 * [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/description/)
 * [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/)
 * [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)
+
+### 2018/07/12
+* [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/description/)
+* [Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/description/)
