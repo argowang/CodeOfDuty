@@ -25,3 +25,6 @@
 ### 2018/07/12
 * [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/description/)
 * [Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/description/)
+### 2018/07/13
+* [Minesweeper](https://leetcode.com/problems/minesweeper/description/)
+* [Friend Circles](https://leetcode.com/problems/friend-circles/description/)
