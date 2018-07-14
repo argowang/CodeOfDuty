@@ -35,3 +35,11 @@
 * [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 * [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
 * [Remove Element](https://leetcode.com/problems/remove-element/description/)
+
+# 2018/07/14
+* [Plus One](https://leetcode.com/problems/plus-one/description/)
+* [Find Pivot Index](https://leetcode.com/submissions/detail/163749121/)
+* [Pascal's Triangle II](https://leetcode.com/submissions/detail/163750939/)
+* [Two Sum](https://leetcode.com/submissions/detail/163751318/)
+* [Maximum Average SubarrayI](https://leetcode.com/problems/maximum-average-subarray-i/description/)
+* [Maximize Distance to Cloest Person](https://leetcode.com/submissions/detail/163754928/)
