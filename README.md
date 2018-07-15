@@ -13,3 +13,6 @@ humiliate me
 * [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)
 * [ugly numbers](https://leetcode.com/problems/ugly-number/description/)
 * [Sum of two integers](https://leetcode.com/problems/sum-of-two-integers/description/)
+#### 20180714
+* [Subsets](https://leetcode.com/problems/subsets/description/)
+* [Subsets II](https://leetcode.com/problems/subsets-ii/description/)
