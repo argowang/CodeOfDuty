@@ -43,3 +43,12 @@
 * [Two Sum](https://leetcode.com/submissions/detail/163751318/)
 * [Maximum Average SubarrayI](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 * [Maximize Distance to Cloest Person](https://leetcode.com/submissions/detail/163754928/)
+
+# 2018/07/15
+* [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)
+* [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)
+* [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+* [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)
+* [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
+* [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+
