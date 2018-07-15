@@ -28,3 +28,6 @@
 ### 2018/07/13
 * [Minesweeper](https://leetcode.com/problems/minesweeper/description/)
 * [Friend Circles](https://leetcode.com/problems/friend-circles/description/)
+### 2018/07/14
+* [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/)
+* [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/)
