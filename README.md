@@ -52,3 +52,9 @@
 * [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
 * [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 
+# 2018/07/16
+* [Non Decreasing Array](https://leetcode.com/problems/non-decreasing-array/)
+* [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+* [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)
+* [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
+
