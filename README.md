@@ -31,3 +31,6 @@
 ### 2018/07/14
 * [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/)
 * [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/)
+### 2018/07/15
+* [House Robber III](https://leetcode.com/problems/house-robber-iii/description/)
+* [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)
