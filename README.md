@@ -16,3 +16,7 @@ humiliate me
 #### 20180714
 * [Subsets](https://leetcode.com/problems/subsets/description/)
 * [Subsets II](https://leetcode.com/problems/subsets-ii/description/)
+
+#### 20180715
+* [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
+* [Permutations](https://leetcode.com/problems/permutations/description/)
