@@ -34,3 +34,7 @@
 ### 2018/07/15
 * [House Robber III](https://leetcode.com/problems/house-robber-iii/description/)
 * [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)
+### 2018/07/16
+* [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)
+* [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
+* [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
