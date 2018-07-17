@@ -20,3 +20,8 @@ humiliate me
 #### 20180715
 * [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
 * [Permutations](https://leetcode.com/problems/permutations/description/)
+#### 20180716
+* [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
+* [Missing Number](https://leetcode.com/problems/missing-number/description/)
+* [Remove Element](https://leetcode.com/problems/remove-element/description/)
+* [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)
