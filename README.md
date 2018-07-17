@@ -58,3 +58,8 @@
 * [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)
 * [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)
 
+# 2018/07/17
+* [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
+* [Range Addition](https://leetcode.com/problems/range-addition/description/)
+* [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/description/)
+* [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)
