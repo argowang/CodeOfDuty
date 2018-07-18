@@ -38,3 +38,6 @@
 * [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)
 * [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)
 * [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
+### 2018/07/17
+* [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/description/)
+* [Decode String](https://leetcode.com/problems/decode-string/description/)
