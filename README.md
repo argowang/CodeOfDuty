@@ -30,3 +30,7 @@ humiliate me
 * [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/)
 * [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 * [Word Break](https://leetcode.com/problems/word-break/description/)
+
+#### 20180718
+* [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+* [Jump Game](https://leetcode.com/problems/jump-game/description/)
