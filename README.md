@@ -26,3 +26,7 @@ humiliate me
 * [Remove Element](https://leetcode.com/problems/remove-element/description/)
 * [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)
 * [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
+#### 20180717
+* [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/)
+* [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
+* [Word Break](https://leetcode.com/problems/word-break/description/)
