@@ -75,3 +75,10 @@
 * [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 * [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
 
+# 2018/07/19
+* [Binary Tree Paths](https://leetcode.com/submissions/detail/164652332/)
+* [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+* [First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
+* [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)
+* [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
+* [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
