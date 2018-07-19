@@ -41,3 +41,6 @@
 ### 2018/07/17
 * [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/description/)
 * [Decode String](https://leetcode.com/problems/decode-string/description/)
+### 2018/07/18
+* [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/)
+* [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)
