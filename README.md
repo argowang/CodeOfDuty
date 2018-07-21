@@ -34,3 +34,10 @@ humiliate me
 #### 20180718
 * [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 * [Jump Game](https://leetcode.com/problems/jump-game/description/)
+#### 20180719
+* [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
+* [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
+#### 20180720
+* [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
+* [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+* [Maximal Square](https://leetcode.com/problems/maximal-square/solution/)
