@@ -47,3 +47,7 @@
 ### 2018/07/19
 * [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
 * [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)
+### 2018/07/20
+* [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
+* [Clone Graph](https://leetcode.com/problems/clone-graph/description/)
+* [Target Sum](https://leetcode.com/problems/target-sum/description/)
