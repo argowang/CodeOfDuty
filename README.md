@@ -53,3 +53,6 @@
 * [Target Sum](https://leetcode.com/problems/target-sum/description/)
 ### 2018/07/21
 * [Recover Binary Tree](https://leetcode.com/problems/recover-binary-search-tree/description/)
+### 2018/07/22
+* [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
+* [Subsets](https://leetcode.com/problems/subsets/description/)
