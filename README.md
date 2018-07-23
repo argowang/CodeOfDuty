@@ -12,3 +12,9 @@
 - 2.Add two numbers(Linked list)
 # 2018-07-20
 - 3.Longest Substring Without Repeating Characters
+
+# 2018-07-22
+- 4.Median of Two Sorted Arrays
+
+# 2018-07-23
+- 7.Reverse Integer
