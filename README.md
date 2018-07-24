@@ -56,3 +56,5 @@
 ### 2018/07/22
 * [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
 * [Subsets](https://leetcode.com/problems/subsets/description/)
+### 2018/07/23
+* [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/)
