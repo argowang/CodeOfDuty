@@ -102,3 +102,18 @@
 * [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 * [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 
+
+# 2018/07/23
+* [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
+* [Permutations](https://leetcode.com/problems/permutations/description/)
+* [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+
+# 2018/07/24
+* [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
+* [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
+
+# 2018/07/25
+* [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/)
+* [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
+* [LRU cache](https://leetcode.com/problems/lru-cache/description/)
+* [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/)
