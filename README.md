@@ -58,3 +58,6 @@
 * [Subsets](https://leetcode.com/problems/subsets/description/)
 ### 2018/07/23
 * [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/)
+### 2018/07/24
+* [Paint House](https://leetcode.com/problems/paint-house/description/)
+* [Paint House II](https://leetcode.com/problems/paint-house-ii/description/)
