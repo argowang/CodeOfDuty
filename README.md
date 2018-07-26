@@ -117,3 +117,9 @@
 * [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
 * [LRU cache](https://leetcode.com/problems/lru-cache/description/)
 * [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/)
+
+# 2018/07/26
+* [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+* [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+* [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
+
