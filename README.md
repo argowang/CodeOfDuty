@@ -49,3 +49,8 @@ humiliate me
 
 #### 20180723
 * [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/hints/)
+
+#### 20180724
+* [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+* [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
+* [Rotate Image](https://leetcode.com/problems/rotate-image/description/)
