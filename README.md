@@ -61,3 +61,6 @@
 ### 2018/07/24
 * [Paint House](https://leetcode.com/problems/paint-house/description/)
 * [Paint House II](https://leetcode.com/problems/paint-house-ii/description/)
+### 2018/07/25
+* [House Robber](https://leetcode.com/problems/house-robber/description/)
+* [Longest Valid Parenthesis](https://leetcode.com/problems/longest-valid-parentheses/description/)
