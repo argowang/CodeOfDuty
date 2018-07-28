@@ -64,3 +64,7 @@
 ### 2018/07/25
 * [House Robber](https://leetcode.com/problems/house-robber/description/)
 * [Longest Valid Parenthesis](https://leetcode.com/problems/longest-valid-parentheses/description/)
+### 2018/07/26
+* [Jewels and Stone](https://leetcode.com/problems/jewels-and-stones/description/)
+* [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/)
+* [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/)
