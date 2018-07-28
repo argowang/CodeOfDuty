@@ -68,3 +68,6 @@
 * [Jewels and Stone](https://leetcode.com/problems/jewels-and-stones/description/)
 * [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/)
 * [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/)
+### 2018/07/27
+* [Minimum Sise Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
+* [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
