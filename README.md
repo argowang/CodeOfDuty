@@ -123,3 +123,11 @@
 * [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 * [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
 
+
+# 2018/07/27
+* [Palindromic Substring](https://leetcode.com/problems/palindromic-substrings/description/)
+* [Decode Ways](https://leetcode.com/problems/decode-ways/description/)
+
+
+# 2018/07/28
+* [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
