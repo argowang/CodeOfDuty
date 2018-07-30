@@ -74,3 +74,5 @@
 ### 2018/07/28
 * [Pow(x,n)](https://leetcode.com/problems/powx-n/description/)
 * [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+### 2018/07/29
+* [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
