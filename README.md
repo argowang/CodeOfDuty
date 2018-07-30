@@ -131,3 +131,7 @@
 
 # 2018/07/28
 * [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
+
+# 2018/07/29
+* [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+* [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
