@@ -71,3 +71,6 @@
 ### 2018/07/27
 * [Minimum Sise Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 * [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
+### 2018/07/28
+* [Pow(x,n)](https://leetcode.com/problems/powx-n/description/)
+* [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
