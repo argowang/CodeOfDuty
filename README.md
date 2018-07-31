@@ -76,3 +76,5 @@
 * [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 ### 2018/07/29
 * [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+### 2018/07/30
+* [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/)
