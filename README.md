@@ -57,3 +57,9 @@ humiliate me
 
 #### 20180725
 * [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
+* [Delete Node in BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
+
+#### 20180726
+* [move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+* [Remove Duplicates from sorted array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)
+* [Remove Duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
