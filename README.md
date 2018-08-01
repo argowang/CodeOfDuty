@@ -78,3 +78,5 @@
 * [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 ### 2018/07/30
 * [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/)
+### 2018/07/31
+* [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/)
