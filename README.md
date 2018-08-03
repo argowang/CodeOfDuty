@@ -25,3 +25,6 @@
 
 # 2018-08-01
 - 234.Palindrome Linked List
+
+# 2018-08-03
+- 14. Longest Common Prefix
