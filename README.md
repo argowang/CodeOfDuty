@@ -152,3 +152,8 @@
 # 2018/08/02
 * [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 * [Subarray Sum Equals k](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+
+# 2018/08/03
+* [Merge intervals](https://leetcode.com/problems/merge-intervals/description/)
+* [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
