@@ -157,3 +157,8 @@
 # 2018/08/03
 * [Merge intervals](https://leetcode.com/problems/merge-intervals/description/)
 * [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+
+
+# 2018/08/04
+* [Word Search](https://leetcode.com/problems/word-search/description/)
+* [Letter Combination of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
