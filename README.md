@@ -63,3 +63,9 @@ humiliate me
 * [move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 * [Remove Duplicates from sorted array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)
 * [Remove Duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
+
+#### 20180727
+* [Permutaions II](https://leetcode.com/problems/permutations-ii/description/)
+* [Two sum](https://leetcode.com/problems/two-sum/description/)
+* [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+* [Two Sum IV - Input is a BST]
