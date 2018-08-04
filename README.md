@@ -80,3 +80,10 @@
 * [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/)
 ### 2018/07/31
 * [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/)
+### 2018/08/01
+* [3sum](https://leetcode.com/problems/3sum/description/)
+* [4sum](https://leetcode.com/problems/4sum/description/)
+### 2018/08/02
+* [Two Sum III - Data Structure Design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/)
+* [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+* [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
