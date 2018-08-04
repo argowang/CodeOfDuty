@@ -28,3 +28,8 @@
 
 # 2018-08-03
 - 14. Longest Common Prefix
+
+#2018-08-04
+- 5. Longest Palindromic Substring （Brute Force)
+// substring(startIndex,endIndex), substring 不包括endIndex字符
+- 5. Longest Palindromic Substring (center)
