@@ -4,7 +4,7 @@ class Solution {
         if (totalLen %2 ==1 ){
             return findKth(nums1,0,nums2,0,totalLen/2 + 1);
         }
-        return (findKth(nums1,0,nums2,0,totalLen/2)+findKth(nums1,0,nums2,0,totalLen/2+1)/2);
+        return (findKth(nums1,0,nums2,0,totalLen/2)+findKth(nums1,0,nums2,0,totalLen/2+1))/2.0;
     }
 
     // find the kth value in two sorted array
