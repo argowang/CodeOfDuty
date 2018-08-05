@@ -33,3 +33,6 @@
 - 5. Longest Palindromic Substring （Brute Force)
 // substring(startIndex,endIndex), substring 不包括endIndex字符
 - 5. Longest Palindromic Substring (center)
+
+#2018-08-05
+- 8. String to Integer (atoi)
