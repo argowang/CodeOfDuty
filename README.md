@@ -162,3 +162,10 @@
 # 2018/08/04
 * [Word Search](https://leetcode.com/problems/word-search/description/)
 * [Letter Combination of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+
+
+# 2018/08/05
+* [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
+* [Sort Colors](https://leetcode.com/problems/sort-colors/description/)
+* [Subsets](https://leetcode.com/problems/subsets/description/)
+
