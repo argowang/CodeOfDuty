@@ -68,4 +68,8 @@ humiliate me
 * [Permutaions II](https://leetcode.com/problems/permutations-ii/description/)
 * [Two sum](https://leetcode.com/problems/two-sum/description/)
 * [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
-* [Two Sum IV - Input is a BST]
+* [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)
+
+#### 20180728
+*[3Sum](https://leetcode.com/problems/3sum/description/)
+*[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)
