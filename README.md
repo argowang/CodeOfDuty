@@ -37,3 +37,6 @@
 #2018-08-05
 - 8. String to Integer (atoi)
 - 21. Merge Two Sorted Lists
+
+#2018-08-06
+-26. Remove Duplicates from Sorted Array
