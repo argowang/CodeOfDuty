@@ -169,3 +169,8 @@
 * [Sort Colors](https://leetcode.com/problems/sort-colors/description/)
 * [Subsets](https://leetcode.com/problems/subsets/description/)
 
+
+# 2018/08/06
+* [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)
+* [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
+* [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
