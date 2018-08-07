@@ -174,3 +174,7 @@
 * [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)
 * [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
 * [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
+
+# 2018/08/07
+* [Paint House](https://leetcode.com/problems/paint-house/description/)
+* [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
