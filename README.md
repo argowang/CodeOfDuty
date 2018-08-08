@@ -178,3 +178,7 @@
 # 2018/08/07
 * [Paint House](https://leetcode.com/problems/paint-house/description/)
 * [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)
+
+# 2018/08/08
+* [Paint House II](https://leetcode.com/problems/paint-house-ii/description/)
+* [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
