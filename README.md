@@ -182,3 +182,6 @@
 # 2018/08/08
 * [Paint House II](https://leetcode.com/problems/paint-house-ii/description/)
 * [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
+
+# 2018/08/09
+* [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
